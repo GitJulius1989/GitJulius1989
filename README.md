@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Currently learning cross-platform application development
+
 <!--
 **GitJulius1989/GitJulius1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
